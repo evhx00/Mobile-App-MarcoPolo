@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarcoPoloGame</string>
+
+    <string name="marco_button">Marco!</string>
+    <string name="polo_button">Polo!</string>
+
+    <string name="marco">Marco!</string>
+    <string name="polo">Polo!</string>
+</resources>

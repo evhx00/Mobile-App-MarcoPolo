@@ -1,0 +1,22 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/cute_pink"
+    tools:context="android.bignerdranch.marcopolo.NewActivity"
+    >
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:textColor="@color/cute_blue"
+        android:textSize="24pt"
+        android:fontFamily="cursive"
+        android:textColorHighlight="@color/cute_blue"
+        />
+
+</LinearLayout>
